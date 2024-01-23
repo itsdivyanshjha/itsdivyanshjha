@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsdivyanshjha
-- 👀 I’m interested in Machine Learning & Data Science
+- 👀 I’m interested in Cloud Computing and Virtualization Technologies
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI & ML projects
+- 💞️ I’m looking to collaborate on Cloud and DevOps based projects
 - 📫 How to reach me jhadivyansh29@gmail.com
 
 <!---
