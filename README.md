@@ -4,13 +4,13 @@
 
 ## About Me
 
-I am a passionate software developer with a strong interest in web development, machine learning, and open-source contributions. I love to explore new technologies and constantly strive to improve my skills.
+I am a passionate software developer interested in cloud computing & virtualization technologies, machine learning, and DevOps contributions. I love to explore new technologies and constantly strive to improve my skills.
 
-- 🔭 I’m currently working on various web development projects.
+- 🔭 I’m currently working on various DevOps and Cloud projects.
 - 🌱 I’m currently learning more about machine learning and artificial intelligence.
 - 👯 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: [divyansh@example.com](mailto:jhadivyansh29@gmail.com)
-- ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
+- 📫 How to reach me: [jhadivyansh29@gmail.com](mailto:jhadivyansh29@gmail.com)
+- ⚡ Fun fact: I love music and try mixing and mastering my own tracks in the free time.
 
 ## Skills
 
@@ -31,8 +31,8 @@ I am a passionate software developer with a strong interest in web development, 
 - Git & GitHub
 - Docker
 - AWS
-- Linux
-- Visual Studio Code
+- Kubernetes
+- Jenkins
 
 ## GitHub Stats
 
@@ -44,4 +44,4 @@ I am a passionate software developer with a strong interest in web development, 
 
 - [LinkedIn](https://www.linkedin.com/in/itsdivyanshjha/)
 
-Thank you for visiting my profile! Feel free to reach out to me for any collaboration or just to say hi! 😊
+Thank you for visiting my profile! Feel free to contact me for any collaboration or just to say hi! 😊
