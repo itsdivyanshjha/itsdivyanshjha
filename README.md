@@ -36,8 +36,6 @@ I am a passionate software developer interested in cloud computing & virtualizat
 
 ## GitHub Stats
 
-![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdivyanshjha&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdivyanshjha&layout=compact&theme=radical)
 
 ## Let's Connect
